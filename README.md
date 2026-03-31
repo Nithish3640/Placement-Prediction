@@ -149,7 +149,7 @@ This project can be used by:
 
 ## Author
 
-> Add your name, roll number, institution, and course details here.
+Nithish R
 
 ---
 
